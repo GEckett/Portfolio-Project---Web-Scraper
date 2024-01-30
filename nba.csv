@@ -1,31 +1,29 @@
-h2,td
-Points,1. 
-Rebounds,Devin BookerPHX
-Assists,44
-Blocks,2. 
-Steals,Shai Gilgeous-AlexanderOKC
-Turnovers,31
-Three Pointers Made,3. 
-Free Throws Made,Trae YoungATL
-Fantasy Points,30
-Luka Magic: Doncic Drops 73 Points,4. 
-Points,Paolo BancheroORL
-Rebounds,26
-Assists,4. 
-Blocks,Saddiq BeyATL
-Steals,26
-Field Goal Percentage,1. 
-Three Pointers Made,Jalen DurenDET
-Three Point Percentage,21
-Free Throw Percentage,2. 
-"SGA, Jokic among top players making huge impact",Clint CapelaATL
-Total Points,14
-Total Rebounds,3. 
-Total Assists,Saddiq BeyATL
-Total Blocks,13
-Total Steals,4. 
-Total 3 Pointers Made,Deandre AytonPOR
-Most 3PM in a Game,12
-Highest Scoring Game,4. 
-Highest % of PTS 3PT,Chet HolmgrenOKC
-Catch and Shoot FGA,12
+h2,table
+Points,1. Luka DoncicDAL452. Shai Gilgeous-AlexanderOKC373. Paolo BancheroORL363. Tim Hardaway Jr.DAL365. Jamal MurrayDEN35
+Rebounds,1. Domantas SabonisSAC262. Rudy GobertMIN183. Jarrett AllenCLE174. Nikola JokicDEN165. Daniel GaffordWAS13
+Assists,1. Luka DoncicDAL152. Fred VanVleetHOU143. Nikola JokicDEN123. Donovan MitchellCLE125. Ben SimmonsBKN11
+Blocks,1. Bam AdebayoMIA31. Mo BambaPHI31. Nic ClaxtonBKN31. Chet HolmgrenOKC31. Victor WembanyamaSAS3
+Steals,1. Miles BridgesCHA31. Isaiah HartensteinNYK31. Keldon JohnsonSAS31. Nikola JokicDEN31. Scotty Pippen Jr.MEM3
+Turnovers,1. Jayson TatumBOS72. Marvin Bagley IIIWAS52. Cody MartinCHA52. Amen ThompsonHOU52. Devin VassellSAS5
+Three Pointers Made,1. Mikal BridgesBKN62. Santi AldamaMEM52. Donte DiVincenzoNYK52. Eric GordonPHX52. Tim Hardaway Jr.DAL5
+Free Throws Made,1. Luka DoncicDAL182. Shai Gilgeous-AlexanderOKC153. Jerami GrantPOR124. Jimmy ButlerMIA104. Jaren Jackson Jr.MEM10
+Fantasy Points,1. Luka DoncicDAL80.32. Nikola JokicDEN74.23. Jalen GreenHOU60.93. Alperen SengunHOU60.95. Paolo BancheroORL60.3
+Luka Magic: Doncic Drops 73 Points,1.Brooklyn Nets1472.Houston Rockets1353.Dallas Mavericks1314.Portland Trail Blazers1305.Orlando Magic129
+Points,1.Houston Rockets562.Sacramento Kings513.Brooklyn Nets504.Denver Nuggets474.Phoenix Suns47
+Rebounds,1.Brooklyn Nets412.Houston Rockets363.Washington Wizards324.San Antonio Spurs315.Phoenix Suns30
+Assists,1.Brooklyn Nets92.Phoenix Suns82.Washington Wizards84.Milwaukee Bucks74.Oklahoma City Thunder7
+Blocks,1.Brooklyn Nets122.Memphis Grizzlies113.Houston Rockets103.Los Angeles Lakers103.Sacramento Kings10
+Steals,1.Dallas Mavericks62.32.Portland Trail Blazers54.83.Washington Wizards53.54.Houston Rockets53.15.New York Knicks52.4
+Field Goal Percentage,1.Brooklyn Nets212.Orlando Magic183.Boston Celtics174.Milwaukee Bucks165.Miami Heat14
+Three Pointers Made,1.Minnesota Timberwolves48.32.Dallas Mavericks48.13.Orlando Magic47.44.Brooklyn Nets46.75.Portland Trail Blazers42.9
+Three Point Percentage,1.Miami Heat1002.Brooklyn Nets94.73.Portland Trail Blazers89.74.Philadelphia 76ers89.35.San Antonio Spurs88.2
+Free Throw Percentage,Shai Gilgeous-AlexanderOKC1438Giannis AntetokounmpoMIL1394Luka DoncicDAL1388
+"SGA, Jokic among top players making huge impact",Domantas SabonisSAC583Rudy GobertMIN577Nikola JokicDEN569
+Total Points,Trae YoungATL444Tyrese HaliburtonIND428Nikola JokicDEN423
+Total Rebounds,Brook LopezMIL130Victor WembanyamaSAS128Chet HolmgrenOKC120
+Total Assists,Shai Gilgeous-AlexanderOKC103Matisse ThybullePOR70Paul GeorgeLAC68
+Total Blocks,Stephen CurryGSW187Luka DoncicDAL155Paul GeorgeLAC148
+Total Steals,Keegan MurraySAC12Bogdan BogdanovicATL10Karl-Anthony TownsMIN10
+Total 3 Pointers Made,Luka DoncicDAL73Joel EmbiidPHI70Giannis AntetokounmpoMIL64
+Most 3PM in a Game, Boston Celtics40.4 Dallas Mavericks38.4 Golden State Warriors38.1
+Highest Scoring Game,Klay ThompsonGSW8.1Lauri MarkkanenUTA7.9Bogdan BogdanovicATL7.3
